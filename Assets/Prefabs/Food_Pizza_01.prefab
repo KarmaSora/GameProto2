@@ -110,3 +110,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 219e227f8992c3d4ea2ffffabd33fbad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroyZRangeUP: 30
+  destroyZRangeDown: -20
